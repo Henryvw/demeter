@@ -1,0 +1,27 @@
+{
+  "name": "demeter",
+  "version": "1.0.0",
+  "description": "Node and Express Application to render simple Jade Templates.",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henryvw/demeter.git"
+  },
+  "keywords": [
+    "Node",
+    "Demeter"
+  ],
+  "author": "Henry van Wagenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henryvw/demeter/issues"
+  },
+  "homepage": "https://github.com/Henryvw/demeter#readme"
+}
