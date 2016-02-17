@@ -6,7 +6,9 @@
   "dependencies": {
     "gulp": "^3.9.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "documentjs": "^0.4.2"
+  },
   "scripts": {
     "test": "test"
   },
